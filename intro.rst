@@ -2,8 +2,6 @@
 Common Problems In Curve Fitting
 ================================
 
-based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examples/CommonProblems>`__ in Python
-
 +----------------------------------------------+-----------------------------------------------------+
 | **Data With A Poorly Defined Region**        | This problem can be mitigated by taking additional  |
 | |image4|                                     | data in the region that is poorly defined.          |
@@ -70,6 +68,8 @@ based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examp
 | and still images <RandomData_A.html>`__      |                                                     |
 |                                              |                                                     |
 +----------------------------------------------+-----------------------------------------------------+
+
+Based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examples/CommonProblems>`__ in Python. E-mail zunzun@zunzun.com for questions or comments.
 
 .. |image0| image:: Outlier_A_small.gif
 .. |image1| image:: Outlier_B_small.gif
