@@ -3,14 +3,6 @@ Common Problems In Curve Fitting
 ================================
 
 +----------------------------------------------+-----------------------------------------------------+
-| **Data With A Poorly Defined Region**        | This problem can be mitigated by taking additional  |
-| |image4|                                     | data in the region that is poorly defined.          |
-|                                              |                                                     |
-|                                              |                                                     |
-| `High resolution animation                   |                                                     |
-| and still images <PoorlyDefined_A.html>`__   |                                                     |
-|                                              |                                                     |
-+----------------------------------------------+-----------------------------------------------------+
 | **Single Outlier At End Point**              | Outliers are often caused by manual                 |
 | |image0|                                     | errors in recording experimental data.              |
 |                                              |                                                     |
@@ -41,6 +33,14 @@ Common Problems In Curve Fitting
 |                                              |                                                     |
 | `High resolution animation                   |                                                     |
 | and still images <LargeStep_A.html>`__       |                                                     |
+|                                              |                                                     |
++----------------------------------------------+-----------------------------------------------------+
+| **Data With A Poorly Defined Region**        | This problem can be mitigated by taking additional  |
+| |image4|                                     | data in the region that is poorly defined.          |
+|                                              |                                                     |
+|                                              |                                                     |
+| `High resolution animation                   |                                                     |
+| and still images <PoorlyDefined_A.html>`__   |                                                     |
 |                                              |                                                     |
 +----------------------------------------------+-----------------------------------------------------+
 | **Equation Missing An Offset**               | This illustrates the effect of fitting data with    |
