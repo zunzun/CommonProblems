@@ -13,10 +13,10 @@ matplotlib.use('Agg') # must be used prior to the next statement
 import matplotlib.pyplot as plt
 
 
-largeAnimationGraphWidth = 800
-largeAnimationGraphHeight = 600
-smallAnimationGraphWidth = 200
-smallAnimationGraphHeight = 150
+largeAnimationGraphWidth = 900
+largeAnimationGraphHeight = 700
+smallAnimationGraphWidth = 320
+smallAnimationGraphHeight = 240
 
 # ensure that 360 is evenly divisible by both of these modulus numbers
 largeAnimationModulus = 2
