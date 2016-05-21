@@ -69,7 +69,9 @@ Common Problems In Curve Fitting
 |                                              |                                                     |
 +----------------------------------------------+-----------------------------------------------------+
 
-Based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examples/CommonProblems>`__ in Python. E-mail zunzun@zunzun.com for questions or comments.
+Based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examples/CommonProblems>`__ in Python.
+
+E-mail zunzun@zunzun.com for questions or suggestions.
 
 .. |image0| image:: Outlier_A_small.gif
 .. |image1| image:: Outlier_B_small.gif
