@@ -20,6 +20,8 @@ equation with an offset will reveal the bias.
 
 |image3|
 
+`Back to top <intro.html>`__
+
 Based on `this GitHub example <https://github.com/zunzun/pyeq2/tree/master/Examples/CommonProblems>`__ in Python.
 
 E-mail zunzun@zunzun.com for questions or suggestions.
